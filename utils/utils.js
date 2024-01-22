@@ -7,4 +7,10 @@ function add(a,b){
 
 console.log(add(a,b));
 
+<<<<<<< HEAD
 console.log("hello world");
+=======
+function isAbove18(){
+    return age>=18;
+}
+>>>>>>> parent of 6bc359d (removed isAbove18 function)
