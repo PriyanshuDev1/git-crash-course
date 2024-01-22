@@ -8,3 +8,8 @@ const dob = "4/10/2006"
 function sayName(name1){
     console.log('My name is: '+name1);
 }
+
+
+function newfunc(){
+    console.log('new func');
+}
