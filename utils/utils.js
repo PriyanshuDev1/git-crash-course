@@ -7,6 +7,3 @@ function add(a,b){
 
 console.log(add(a,b));
 
-function isAbove18(){
-    return age>=18;
-}
